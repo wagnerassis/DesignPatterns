@@ -1,0 +1,10 @@
+Essa técnica, acaba criando uma estrutura com muitas 
+classes e interfaces para a criação de objetos. Mas o código em sí
+fica dependente interfaces simples e pequenas 
+ao invés de uma interface genérica grande com muitos métodos que, as vezes,
+não é usado por todas as classes que à implementam.
+
+Porém, caso seja necessário a criação de novas fabricas, teriamos que criar
+uma nova fabrica, um novo modelo, inserir um novo tipo 
+de modelo em todas as fábricas. Seria um processo demorado 
+caso os metodos de fábrica fossem complexos ou grandes. 

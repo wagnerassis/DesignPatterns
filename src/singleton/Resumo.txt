@@ -1,0 +1,5 @@
+O singleton, permite que voce tenha a garantia de uma unica instancia
+de um objeto e neste exeplo foi feito no padrao "Thread Safe Singleton",
+tento uma maior segurança na sua única instância. Assim todo o projeto tem
+acesso aos dados deste único objeto. Esse mesmo motivo pode ser o perigo
+tambem de usar esse pattern, pois todo o projeto pode acessá-lo e manipulá-lo.

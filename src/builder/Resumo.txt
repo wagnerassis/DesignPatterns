@@ -1,0 +1,4 @@
+Tem como pontos positivo o fato de tornar o código e sua manutenibilidade
+mais legível , porém acabamos criando um pouco mais de código. Mesmo assim, 
+criar um pouco mais de código, neste caso, vale a pena, pelo retorno que o 
+pattern builder te garante.

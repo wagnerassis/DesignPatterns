@@ -1,0 +1,4 @@
+Caso queiramos inserir um novo carro, basta criálo, sem que tenhamos
+de reescrever mais código. porém, as vezes, a estrutura fica grande para
+um problema que é pequeno. Então devemos avaliar bem antes de implementar
+para ver qual o melhor cenário.

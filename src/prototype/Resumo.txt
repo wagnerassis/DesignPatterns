@@ -1,0 +1,3 @@
+Seu maior diferencial é a flexibilidade, caso tu queira adicionar ou remover
+mais um carro, como neste exemplo, basta criar sua instancia ou remove-la,
+podendo ser também em tempo de execução.

@@ -1,0 +1,6 @@
+Analisando o exemplo do https://sourcemaking.com/design_patterns/object_pool
+pude entender que este pattern criar duas filas, aonde teremos
+as os objetos que estão sendo usados e os objetos disponíveis
+para uso. Também podendo ser feito de forma automática, colocando
+um tempo de expiração no objectpool. Assim quando o objeto não
+está mais sendo utilizado, volta para a fila de disponíveis.
